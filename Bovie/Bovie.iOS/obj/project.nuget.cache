@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pOS0K7Rtz4/afGdIfRqLYCGDy/AvvB8c6DrZKeaQB7iwVfcRtUmhB3EDs4ep7vDcxj53y5IS9EBQ45dWBRuRFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jrmai\\Desktop\\Bovie\\Bovie\\Bovie.iOS\\Bovie.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jrmai\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\jrmai\\.nuget\\packages\\plugin.permissions\\6.0.1\\plugin.permissions.6.0.1.nupkg.sha512",
+    "C:\\Users\\jrmai\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Users\\jrmai\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\jrmai\\.nuget\\packages\\xamarin.forms\\4.5.0.617\\xamarin.forms.4.5.0.617.nupkg.sha512",
+    "C:\\Users\\jrmai\\.nuget\\packages\\xamarin.forms.maps\\4.5.0.617\\xamarin.forms.maps.4.5.0.617.nupkg.sha512"
+  ],
+  "logs": []
+}
